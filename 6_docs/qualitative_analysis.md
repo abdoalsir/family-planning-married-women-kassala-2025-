@@ -138,5 +138,5 @@ unsafe behavior — an important protection and rights consideration.
 | Side effects experienced | Menstrual disturbances (39%); method failures reported |
 | General concerns about FP | Majority (57%) have no concerns; infertility/cancer fears among concerned |
 
-These findings will be reported in the results chapter under a dedicated **"Qualitative Analysis"**
-following the quantitative SPSS results.
+These findings will be reported in the results chapter under a dedicated **"Qualitative Analysis"** or
+**"Thematic Analysis"** subsection, following the quantitative SPSS results.
