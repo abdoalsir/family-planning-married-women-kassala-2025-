@@ -23,7 +23,7 @@ quantitative output.
 
 *Asked only of current users (n=174); 172 provided a response.*
 
-### Thematic Categories
+### Thematic Categories 1
 
 | Theme | Representative Responses | Approximate n |
 |---|---|---|
@@ -35,7 +35,7 @@ quantitative output.
 | **Temporary use intention** | "Temporarily" | ~16 (9%) |
 | **Other / Individual reasons** | Various | ~21 (12%) |
 
-### Interpretation
+### Interpretation 1
 
 The dominant driver of method choice was **practical accessibility** — women chose the method that was available and
 affordable, rather than necessarily the method that best matched their medical or personal needs. A notable minority
@@ -49,7 +49,7 @@ cited by approximately 9%, suggesting a role for provider influence but pointing
 
 ***Asked only when husband opposes FP (n=76 oppose); 75 responses obtained.***
 
-### Thematic Categories
+### Thematic Categories 2
 
 | Theme | Representative Responses | Approximate n |
 |---|---|---|
@@ -60,7 +60,7 @@ cited by approximately 9%, suggesting a role for provider influence but pointing
 | **Fear of cancer** | "Cause cancer", "Cause breast cancer" | 3 (4%) |
 | **Other** | Various | 3 (4%) |
 
-### Interpretation
+### Interpretation 2
 
 Husbands' opposition is primarily driven by three factors: **religious prohibition**, **fear of infertility**, and
 **concerns about health/side effects**. The perception that contraceptives cause infertility is a significant
@@ -76,7 +76,7 @@ uptake.
 
 ***Asked of those who ever experienced side effects (n=97 said yes); 93 provided descriptions.***
 
-### Thematic Categories
+### Thematic Categories 3
 
 | Theme | Representative Responses | Approximate n |
 |---|---|---|
@@ -89,7 +89,7 @@ uptake.
 | **Breast symptoms** | "Breast tenderness", "Breast pain and congestion" | 5 (5%) |
 | **Method failure / unintended pregnancy** | "Unexpected pregnancy with injection", "Unexpected pregnancy with condom", "Unexpected pregnancy then abortion", "Abortion followed IUD" | 4 (4%) |
 
-### Interpretation
+### Interpretation 3
 
 **Menstrual irregularities are by far the most commonly reported side effect**, accounting for roughly 39% of all
 descriptions. This is clinically consistent with the known side effect profiles of injectables and implants — the two
